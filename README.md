@@ -17,7 +17,7 @@ Python 3 and VS Code were used to perform all data cleaning, analysis, and visua
 
 ---
 
-##Features
+Features
 	•	Monthly Revenue Analysis: Identifies seasonal trends and revenue volatility to inform promotions and engagement strategies.
 	•	Customer Recency Analysis: Highlights engaged versus dormant customers for targeted campaigns.
 	•	Customer Frequency & Monetary Analysis: Determines high-value and high-frequency customers to prioritize retention and upselling.
