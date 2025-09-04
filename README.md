@@ -1,17 +1,12 @@
 # Online-Retail-Customer-and-Revenue-Analytics
-Here’s a professional README file tailored for your Online Retail Customer and Revenue Analytics project. You can save this as README.md in your project folder:
 
-⸻
-
-Online Retail Customer and Revenue Analytics
 
 Author: Tshiamo Medupe
 Date: 04 September 2025
 Project: Customer Behavior and Revenue Analysis
 
-⸻
-
-Overview
+---
+## Overview
 
 This project analyzes the Online Retail transactional dataset to uncover insights into customer behavior and revenue dynamics. The goal is to transform raw data into actionable marketing and operational strategies. The analysis focuses on three core pillars:
 	1.	Time-series revenue trends
@@ -20,17 +15,16 @@ This project analyzes the Online Retail transactional dataset to uncover insight
 
 Python 3 and VS Code were used to perform all data cleaning, analysis, and visualization.
 
-⸻
+---
 
-Features
+##Features
 	•	Monthly Revenue Analysis: Identifies seasonal trends and revenue volatility to inform promotions and engagement strategies.
 	•	Customer Recency Analysis: Highlights engaged versus dormant customers for targeted campaigns.
 	•	Customer Frequency & Monetary Analysis: Determines high-value and high-frequency customers to prioritize retention and upselling.
 	•	Top Products & Customers: Identifies key revenue drivers.
 	•	Integrated Strategic Recommendations: Provides actionable marketing, loyalty, and segmentation strategies.
 	•	RFM Segmentation: Categorizes customers based on recency, frequency, and monetary value for personalized targeting.
-
-⸻
+---
 
 Technical Details
 	•	Data Cleaning:
@@ -50,8 +44,7 @@ Technical Details
 	•	Outputs:
 	•	Cleaned dataset: online_retail_cleaned.csv
 	•	Plots saved in plots/ folder (e.g., monthly_revenue_trend.png, rfm_recency.png)
-
-⸻
+---
 
 Dependencies
 	•	Python 3.x
@@ -77,12 +70,14 @@ Usage
 python3 rfm_analysis.py
 ```
 
-	3.	The script will output:
+	
+   3.	
+ The script will output:
 	•	Cleaned CSV: online_retail_cleaned.csv
 	•	Plots in the plots/ folder
 	•	Console output of top products and customers
 
-⸻
+---
 
 Key Insights
 	•	Revenue shows seasonal spikes, particularly around holidays.
@@ -90,7 +85,7 @@ Key Insights
 	•	Majority of customers are low-frequency buyers; small subset are super-repeat buyers.
 	•	RFM segmentation identifies VIP customers, dormant customers, and frequent buyers for tailored marketing strategies.
 
-⸻
+---
 
 Recommendations
 	1.	Diversify Revenue Streams: Reduce dependency on peak seasons.
@@ -99,12 +94,10 @@ Recommendations
 	4.	VIP Customer Management: Formalize high-value customer programs.
 	5.	Analytical Monitoring: Automate RFM and revenue tracking for trend detection.
 
-⸻
+---
 
 Contact
 
 Author: Tshiamo Medupe
-Email: tshiamo_medupe@Tshiamos-MacBook-Air
-
-⸻
+Email: medupet35@icloud.com
 
