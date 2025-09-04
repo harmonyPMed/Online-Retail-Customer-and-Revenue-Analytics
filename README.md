@@ -17,6 +17,14 @@ Python 3 and VS Code were used to perform all data cleaning, analysis, and visua
 
 ---
 
+Dataset
+
+Due to size, the full Online Retail dataset is not included. 
+- A sample subset is provided: `online_retail_listing.csv`.
+- To use the full dataset, download from Kaggle:https://www.kaggle.com/datasets/ilkeryildiz/online-retail-listing
+- The cleaned dataset can be found: https://drive.google.com/file/d/1zEn9coON0hCFcmD-lbwiI6g1qA-VWHM8/view?usp=drive_link
+
+  
 Features
 
 	•	Monthly Revenue Analysis: Identifies seasonal trends and revenue volatility to inform promotions and engagement strategies.
