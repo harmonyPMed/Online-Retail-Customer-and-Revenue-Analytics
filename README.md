@@ -33,6 +33,7 @@ Features
 	•	Top Products & Customers: Identifies key revenue drivers.
 	•	Integrated Strategic Recommendations: Provides actionable marketing, loyalty, and segmentation strategies.
 	•	RFM Segmentation: Categorizes customers based on recency, frequency, and monetary value for personalized targeting.
+ 
 ---
 
 Technical Details
