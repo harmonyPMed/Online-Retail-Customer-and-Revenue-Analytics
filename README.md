@@ -26,13 +26,12 @@ Due to size, the full Online Retail dataset is not included.
 
   
 Features
-
-	•	Monthly Revenue Analysis: Identifies seasonal trends and revenue volatility to inform promotions and engagement strategies.
-	•	Customer Recency Analysis: Highlights engaged versus dormant customers for targeted campaigns.
-	•	Customer Frequency & Monetary Analysis: Determines high-value and high-frequency customers to prioritize retention and upselling.
-	•	Top Products & Customers: Identifies key revenue drivers.
-	•	Integrated Strategic Recommendations: Provides actionable marketing, loyalty, and segmentation strategies.
-	•	RFM Segmentation: Categorizes customers based on recency, frequency, and monetary value for personalized targeting.
+	- Monthly Revenue Analysis: Identifies seasonal trends and revenue volatility to inform promotions and engagement strategies.
+	- Customer Recency Analysis: Highlights engaged versus dormant customers for targeted campaigns.
+	- Customer Frequency & Monetary Analysis: Determines high-value and high-frequency customers to prioritize retention and upselling.
+	- Top Products & Customers: Identifies key revenue drivers.
+	- Integrated Strategic Recommendations: Provides actionable marketing, loyalty, and segmentation strategies.
+	- RFM Segmentation: Categorizes customers based on recency, frequency, and monetary value for personalized targeting.
  
 ---
 
