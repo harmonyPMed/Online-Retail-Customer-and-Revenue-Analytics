@@ -28,6 +28,7 @@ Features
 ---
 
 Technical Details
+
 	•	Data Cleaning:
 	•	Removed duplicates and handled missing values
 	•	Filtered negative or zero quantities
@@ -48,6 +49,7 @@ Technical Details
 ---
 
 Dependencies
+
 	•	Python 3.x
 	•	pandas
 	•	numpy
@@ -81,6 +83,7 @@ python3 rfm_analysis.py
 ---
 
 Key Insights
+
 	•	Revenue shows seasonal spikes, particularly around holidays.
 	•	Top 5% of customers contribute ~60% of total revenue (Pareto principle).
 	•	Majority of customers are low-frequency buyers; small subset are super-repeat buyers.
@@ -89,6 +92,7 @@ Key Insights
 ---
 
 Recommendations
+
 	1.	Diversify Revenue Streams: Reduce dependency on peak seasons.
 	2.	Lapsed Customer Re-engagement: Launch targeted win-back campaigns.
 	3.	Segmented Marketing: Use RFM segmentation for personalized promotions.
